@@ -8,7 +8,7 @@ public class HelloWorld {
 }
 =======
     public static void main(String[] args{
-        System.out.println("Hello World This is TDTU");
+        System.out.println("Hello World I am Mac Cu Dang Khoa");
     }
 }
 >>>>>>> beb9d1afe258f439bba282178ad02f172c582151
