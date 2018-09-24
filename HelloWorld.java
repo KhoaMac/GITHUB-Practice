@@ -1,3 +1,6 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
 public class HelloWorld {
 <<<<<<< HEAD
 
@@ -6,9 +9,9 @@ public class HelloWorld {
     }
 
 }
-=======
     public static void main(String[] args{
-        System.out.println("Hello World I am Mac Cu Dang Khoa");
+         Scanner sc = new Scanner(System.in);
+        System.out.print("Input student list: ");
     }
 }
->>>>>>> beb9d1afe258f439bba282178ad02f172c582151
+
