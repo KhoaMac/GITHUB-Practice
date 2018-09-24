@@ -7,6 +7,7 @@ import java.util.Scanner;
         System.out.print("Input student list: ");
         File file = new File(sc.nextLine());
         sc = new Scanner(file);
+        System.out.println("Hello World This is TDTU");
     }
 }
 
