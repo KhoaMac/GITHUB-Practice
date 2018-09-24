@@ -8,6 +8,10 @@ import java.util.Scanner;
         File file = new File(sc.nextLine());
         sc = new Scanner(file);
         System.out.println("Hello World This is TDTU");
+        while(sc.hasNextLine()){
+            System.out.print("Hello World I am " + sc.nextLine()+ "\n");
+            count++;
+        }
     }
 }
 
